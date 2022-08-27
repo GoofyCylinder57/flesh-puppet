@@ -1,42 +1,4 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+# What is Flesh Puppet?
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+Flesh Puppet is a Discord bot that is linked to a frontend lookalike of the actual Discord, allowing people who can't join a group's Discord server to use the Flesh Puppet instead. Since the Flesh Puppet can only access one server, it is much safer for administrators/parents/guardians who want to restrict where their subordinate can go on the internet.
